@@ -1,0 +1,11 @@
+.App{
+    background-color: rgb(58, 167, 58);
+    height: 100%;
+
+background: rgb(2,0,36);
+background: -moz-linear-gradient(82deg, rgba(2,0,36,1) 0%, rgba(28,181,117,1) 26%, rgba(9,121,46,1) 61%, rgba(24,161,157,1) 80%, rgba(0,212,255,1) 100%);
+background: -webkit-linear-gradient(82deg, rgba(2,0,36,1) 0%, rgba(28,181,117,1) 26%, rgba(9,121,46,1) 61%, rgba(24,161,157,1) 80%, rgba(0,212,255,1) 100%);
+background: linear-gradient(82deg, rgba(2,0,36,1) 0%, rgba(28,181,117,1) 26%, rgba(9,121,46,1) 61%, rgba(24,161,157,1) 80%, rgba(0,212,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#00d4ff",GradientType=1);
+}
+
